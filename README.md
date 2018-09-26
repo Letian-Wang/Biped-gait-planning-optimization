@@ -1,5 +1,5 @@
 # Biped-gait-planning-optimization
-This is a numerical optimization project for the gait of a Biped robot
+This is a numerical optimization project for the gait of a Biped robot, on matlab
 ## Introduction
 This code complete calculating the gait for a walking biped with the minimum energy consumption.
 
